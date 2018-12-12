@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fb42324a57c40126cb8cd41a18b36174\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6a6e699e97726ab2e1989f29e484edff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6fc1a8ddb9bb8294b1805827919615d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\53ab1e47949a276370f99ed084f20e9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ae39ec61c37ad0340802837056e603fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f01d480ed17aece15fee6dd7f5dd9384\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\28ece1a941535d871f3ba63cfe9c3993\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\26b903523708742d13387b9c2f5283c0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a4ddfee18c8e6b55ac709e8cf4b29b67\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\970ef89c55bd1834d3a7a542176ef6ea\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:3:1-29
+		INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:5:1-26
+		INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:4:1-24
+		INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:7:1-80
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:7:18-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:9:1-77
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:9:18-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:11:1-76
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:11:18-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:12:1-71
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:12:18-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:13:1-63
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:13:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:14:1-75
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:14:18-72
+application
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:16:1-43:15
+	android:label
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:19:5-37
+	android:icon
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:18:5-41
+	android:allowBackup
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:17:5-31
+	android:theme
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:20:5-63
+meta-data#android.max_aspect
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:23:5-25:31
+	android:value
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:25:9-28
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:24:9-42
+activity#com.example.wuziqi.MainActivity
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:27:5-36:16
+	android:screenOrientation
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:30:9-45
+	android:label
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:29:9-41
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:28:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:31:9-35:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:32:13-65
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:32:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:34:23-70
+activity#com.example.wuziqi.ViewPagerActivity
+ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:38:5-41:16
+	android:name
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml:39:9-42
+uses-sdk
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fb42324a57c40126cb8cd41a18b36174\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\fb42324a57c40126cb8cd41a18b36174\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6a6e699e97726ab2e1989f29e484edff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6a6e699e97726ab2e1989f29e484edff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6fc1a8ddb9bb8294b1805827919615d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6fc1a8ddb9bb8294b1805827919615d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\53ab1e47949a276370f99ed084f20e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\53ab1e47949a276370f99ed084f20e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ae39ec61c37ad0340802837056e603fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ae39ec61c37ad0340802837056e603fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f01d480ed17aece15fee6dd7f5dd9384\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f01d480ed17aece15fee6dd7f5dd9384\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\28ece1a941535d871f3ba63cfe9c3993\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\28ece1a941535d871f3ba63cfe9c3993\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\26b903523708742d13387b9c2f5283c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\26b903523708742d13387b9c2f5283c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a4ddfee18c8e6b55ac709e8cf4b29b67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a4ddfee18c8e6b55ac709e8cf4b29b67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\970ef89c55bd1834d3a7a542176ef6ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HASEE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\970ef89c55bd1834d3a7a542176ef6ea\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HASEE\AndroidStudioProjects\WuZiQi1\app\src\main\AndroidManifest.xml

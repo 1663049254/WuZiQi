@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\6a6e699e97726ab2e1989f29e484edff\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_win_dialog.xml.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\layout\\win_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg5.jpg.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-xxhdpi\\bg5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg2.jpg.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-xxhdpi\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_button_background.xml.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-ldpi\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_view_pager.xml.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\layout\\view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_stone_w1.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\stone_w1.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_win_background.xml.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-ldpi\\win_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_win.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\win.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_button_style.xml.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-ldpi\\button_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg6.jpg.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-xxhdpi\\bg6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\6a6e699e97726ab2e1989f29e484edff\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_lantern.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\lantern.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\6a6e699e97726ab2e1989f29e484edff\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\6a6e699e97726ab2e1989f29e484edff\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_login.xml.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_border.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\border.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\6a6e699e97726ab2e1989f29e484edff\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg.jpg.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-xxhdpi\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_stone_b2.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\stone_b2.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg3.jpg.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-xxhdpi\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\6a6e699e97726ab2e1989f29e484edff\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_coin.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\coin.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_edit_background.xml.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-ldpi\\edit_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_chat.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\6a6e699e97726ab2e1989f29e484edff\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_lose.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\lose.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg4.jpg.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-xxhdpi\\bg4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_stone_w2.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\stone_w2.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\6a6e699e97726ab2e1989f29e484edff\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_stone_b1.png.flat",
+        "source": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\src\\main\\res\\drawable-hdpi\\stone_b1.png"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\6a6e699e97726ab2e1989f29e484edff\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HASEE\\AndroidStudioProjects\\WuZiQi1\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\HASEE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f01d480ed17aece15fee6dd7f5dd9384\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]
